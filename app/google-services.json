@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "729070329483",
+    "firebase_url": "https://adopta-un-perro-547fc.firebaseio.com",
+    "project_id": "adopta-un-perro-547fc",
+    "storage_bucket": "adopta-un-perro-547fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729070329483:android:ae5256702dabba88",
+        "android_client_info": {
+          "package_name": "com.ucv.marcos.adopta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729070329483-k39t3j9p1ago6h8bt4dja65590lm58uq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ucv.marcos.adopta",
+            "certificate_hash": "0d2fddbe462e554682e6e0277333830f43d930d1"
+          }
+        },
+        {
+          "client_id": "729070329483-114jc2fctd111spnsk2v2n00oqkkocgf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ucv.marcos.adopta",
+            "certificate_hash": "81f36038cb29f86dbf3fca740092170f7f601af9"
+          }
+        },
+        {
+          "client_id": "729070329483-5h3ecp4kpbghdea74tm5but3qndvofsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0m7qgJaH4H99QCV_YshWOvWAQxikVdMM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729070329483-5h3ecp4kpbghdea74tm5but3qndvofsj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
