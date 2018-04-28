@@ -43,6 +43,7 @@
 
 
         <activity android:name=".MainActivity"></activity>
+        <activity android:name=".PublicarAnuncio"></activity>
 
 
     </application>
